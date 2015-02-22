@@ -1,4 +1,3 @@
-datasciencecoursera
-===================
+most of steps are described in CodeBook.md, 
+how scripts work 
 
-Repository for Coursera Data Scientist course
